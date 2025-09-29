@@ -1,4 +1,4 @@
-## Project Overview
+## Project Overview (Deadline: 10/13/2025)
 Students will build a full-stack TODO application with user authentication, tasks, and labels. The backend will be a **RESTful API built with Python's FastAPI**, and the frontend will be a **Next.js application**. The application will use **MongoDB** for data persistence. This project is designed to provide hands-on experience with modern web development tools and best practices.
 
 ---
@@ -78,4 +78,5 @@ While you are welcome to "vibe code" and explore your creativity, all students w
 ## Submission & Evaluation
 * **Submission**: Students will submit a link to their GitHub repository and their project demo video via the provided Excel document.
     * The project demo video must be uploaded as an **unlisted YouTube video**, with the link shared in the submission spreadsheet. [Step-by-Step Guide to Record & Upload Unlisted Video](https://scribehow.com/viewer/How_to_Upload_a_Video_to_YouTube__do3vpp38Qi-FCvxtKeALww)
+
 * **Evaluation**: The project will be evaluated based on a separate rubric.
