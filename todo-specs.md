@@ -76,7 +76,8 @@ While you are welcome to "vibe code" and explore your creativity, all students w
 ---
 
 ## Submission & Evaluation
-* **Submission**: Students will submit a link to their GitHub repository and their project demo video via the provided Excel document.
+* **Submission**: Students will submit a link to their GitHub repository and their project demo video via the provided [Excel document here](https://docs.google.com/spreadsheets/d/11ZH6k8WsGtD4SpP2_SyeJJBAuJA-DAejpFAZmLCcFfc/edit?usp=sharing).
     * The project demo video must be uploaded as an **unlisted YouTube video**, with the link shared in the submission spreadsheet. [Step-by-Step Guide to Record & Upload Unlisted Video](https://scribehow.com/viewer/How_to_Upload_a_Video_to_YouTube__do3vpp38Qi-FCvxtKeALww)
 
 * **Evaluation**: The project will be evaluated based on a separate rubric.
+
